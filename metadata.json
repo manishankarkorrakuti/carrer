@@ -1,0 +1,5 @@
+{
+  "name": "mani",
+  "description": "An interactive web application designed to help students discover their potential career paths through personalized assessments. The tool features separate interfaces for students to take tests and for administrators to manage the assessment questions, with AI-powered recommendations.",
+  "requestFramePermissions": []
+}
